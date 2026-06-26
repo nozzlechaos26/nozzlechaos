@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nozzle Chaos</title>
+</head>
+
+<body style="font-family:Arial;text-align:center;margin-top:100px;">
+    <h1>Welcome to Nozzle Chaos</h1>
+
+    <h2>Premium 3D Printing</h2>
+
+    <p>My website is under construction.</p>
+</body>
+</html>
